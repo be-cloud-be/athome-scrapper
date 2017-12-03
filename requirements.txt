@@ -1,0 +1,7 @@
+ArangoPy==0.5.6
+Scrapy==1.4.0
+ScrapyElasticSearch==0.8.9
+dateparser==0.6.0
+firebase-admin==2.1.1
+google-auth==1.0.1
+scrapy-mongodb==0.9.1
